@@ -1,0 +1,1 @@
+Freedom App is an android messaging application. In this application you can add anyone as your friend and just start taking to them. I have used Flutter to make this application and for storing data I have used Cloud Firestore.
