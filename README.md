@@ -3,8 +3,8 @@
 <table>
   <tr>
     <td>Welcome Page</td>
-     <td>Holiday Mention</td>
-     <td>Present day in purple and selected day in pink</td>
+     <td>Login Page</td>
+     <td>SignUp Page</td>
   </tr>
   <tr>
     <td><img src="Screenshots/Welcome.jpg" width="350"></td>
