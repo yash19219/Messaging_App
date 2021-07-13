@@ -21,6 +21,13 @@
     <td><img src="Screenshots/People.jpg" width="350" ></td>
     <td><img src="Screenshots/Account.jpg" width="350"></td>
   </tr>
+  <tr>
+    <td>Chat Screen</td>
+  </tr>
+  <tr>
+    <td><img src="Screenshots/Chat_Screen.jpg" width="350"></td>
+    
+  </tr>
  </table>
 
 
